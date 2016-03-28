@@ -1,0 +1,10 @@
+TKN_LB       0      
+TKN_FORMAT        9      
+TKN_NIL           17      
+TKN_STR       Hello world
+TKN_RB       1      
+TKN_LB       0      
+TKN_DEFVAR        7      
+TKN_ID             33        
+TKN_INT           31         
+TKN_RB       1      
